@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zouonion.github.io/test/test.ipa</string>
+					<string>https://zouonion.github.io/test/ios/app/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://zouonion.github.io/test/logo@57.png</string>
+					<string>https://zouonion.github.io/test/ios/app/logo@57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://zouonion.github.io/test/logo@512.png</string>
+					<string>https://zouonion.github.io/test/ios/app/logo@512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
